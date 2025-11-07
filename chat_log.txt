@@ -1,0 +1,6 @@
+cronologia della chat
+UtenteA: Ciao come stai?
+UtenteB: Bene e tu?
+UtenteA: Come fasccio sd uscire>?
+UtenteB: Devi scrivere la parola fine
+fine
